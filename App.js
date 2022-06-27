@@ -1,5 +1,4 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { View } from 'react-native';
 import { Sup} from './componentes/blocosup';
 import { Quad1 } from './componentes/quadrado1';
 import { Ret1 } from './componentes/retangulo1';
