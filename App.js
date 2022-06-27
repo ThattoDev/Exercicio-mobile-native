@@ -1,5 +1,5 @@
 import { View } from 'react-native';
-import { Sup} from './componentes/blocosup';
+import { Sup} from './componentes/up';
 import { Quad1 } from './componentes/quadrado1';
 import { Ret1 } from './componentes/retangulo1';
 import { Ret2 } from './componentes/retangulo2';
